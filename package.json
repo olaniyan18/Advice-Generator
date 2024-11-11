@@ -1,5 +1,6 @@
 {
   "name": "advicegenerator",
+  "homepage": "http://olaniyan18.github.io/Advice-Generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
